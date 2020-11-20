@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+}
+.butt-3 {
+    background-color: #23c1a4;
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+    width: 180px;
+}   
+body {
+    background-color: #d3dcda;
+}
